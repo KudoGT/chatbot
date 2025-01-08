@@ -1,0 +1,487 @@
+{
+  "intents": [
+    {
+      "tag": "toxicccc",
+      "patterns": [
+        "nigga to racist hai",
+        "dekh bai tu to toxic ho rha",
+        "bai tumi to toxic ho rhe",
+        "tumi to racist nikle bai"
+      ],
+      "responses": [
+        "koi ni boi me is trying to be more toxic",
+        "gommenna sai",
+        "gm",
+        "ma bad :)"
+      ]
+    },
+    {
+      "tag": "panda",
+      "patterns": [
+        "marako kidher hai"
+      ],
+      "responses": [
+        "jhuk rha hoga kahi",
+        "all nighter de rha hoga... i mean kar rha hoga :)"
+      ]
+    },
+    {
+      "tag": "namzirL",
+      "patterns": [
+        "nazir to lesbian hai",
+        "namzir to lesbian hai"
+      ],
+      "responses": [
+        "Original lesbiann bol",
+        "bete darr nahi lagta kya "
+      ]
+    },
+    {
+      "tag": "darr",
+      "patterns": [
+        "dar nhi lagta kya teko nazir se"
+      ],
+      "responses": [
+        "nazir to Original lesbian hai"
+      ]
+    },
+    {
+      "tag": "l1",
+      "patterns": [
+        "par tu to ludo hai",
+        "tu to nigga hai"
+      ],
+      "responses": [
+        "aji ghnata mera tera baap hoon"
+      ]
+    },
+    {
+      "tag": "rha",
+      "patterns": [
+        "karega",
+        "kar liya",
+        "tune karega kya"
+      ],
+      "responses": [
+        "aji ghanta mera"
+      ]
+    },
+    {
+      "tag": "game-response",
+      "patterns": [
+        "amja boi khelte",
+        "amja bai vemlo khelte",
+        "amja bai bgmi khelte"
+      ],
+      "responses": [
+        "abhi genshin khel rha ata 20 min. me ",
+        "aaya abhi khana kaa rha :)",
+        "amta hoon ruk 5 min.",
+        "amja"
+      ]
+    },
+    {
+      "tag": "velo-genshin",
+      "patterns": [
+        "kya kar rha bai",
+        "kya kar rha boi"
+      ],
+      "responses": [
+        "chal boi Vemlo khelte",
+        "kuchh nahi bas vemlo khel rha tha",
+        "genshin khel rha bai"
+      ]
+    },
+    {
+      "tag": "sedlyf",
+      "patterns": [
+        "sed lyf",
+        "gg",
+        "ggwp"
+      ],
+      "responses": [
+        "moe moe .... moe moe",
+        "gm bai",
+        "yems bai",
+        "gg",
+        "ggwp"
+      ]
+    }
+  ,
+    {
+      "tag": "T3",
+      "patterns": [
+        "bata"
+      ],
+      "responses": [
+        "rhne de bai tumi sed ho jaoege",
+        "teri kilas jagi bai",
+        "leave it bro, maaf kiya teko :)"
+      ]
+    },
+    {
+      "tag": "genshinpullgoodluck",
+      "patterns": [
+        "kyu bai genshin nhi khel rha kya "
+      ],
+      "responses": [
+        "ek baat batau aaj kya mila meko ... huh :)"
+      ]
+    },
+    {
+      "tag": "genshin-pull-bad luck",
+      "patterns": [
+        "kaisa gaya tera pull"
+      ],
+      "responses": [
+        "vomsdk teko jinda nahi rehna lagta hai"
+      ]
+    },
+    {
+      "tag": "yare yare",
+      "patterns": [
+        "satte satte satte ",
+        "yare yaer",
+        "ara ara yaer"
+      ],
+      "responses": [
+        "satte satte satte",
+        "yare yaer",
+        "ara ara",
+        "yare yare"
+      ]
+    },
+    {
+      "tag": "naive",
+      "patterns": [
+        "naive desu",
+        "demm ma bad "
+      ],
+      "responses": [
+        "dame da na omea",
+        "omae naive desu de gozaru",
+        "omaae naive desu"
+      ]
+    },
+    {
+      "tag": "desu",
+      "patterns": [
+        "desu",
+        "de gozaru"
+      ],
+      "responses": [
+        "desuuu bol ",
+        "desu de gozaru",
+        "kore wa kore wa desu de gozaru"
+      ]
+    },
+    {
+      "tag": "yamete",
+      "patterns": [
+        "dame da",
+        "onii chan",
+        "yamete"
+      ],
+      "responses": [
+        "aaahh... yamete onii chan..!",
+        "dame da na onii chann....!"
+      ]
+    },
+    {
+      "tag": "bich",
+      "patterns": [
+        "bich"
+      ],
+      "responses": [
+        "han bol bich"
+      ]
+    },
+    {
+      "tag": "T2",
+      "patterns": [
+        "keh deta hoon kya hi pata chalega "
+      ],
+      "responses": [
+        "han sahi hai , yahi karleta hoon pehle koi kya hi kar lega"
+      ]
+    },
+    {
+      "tag": "T1",
+      "patterns": [
+        "keh deta hoon kya hi ho jaega"
+      ],
+      "responses": [
+        "thik hai bai"
+      ]
+    },
+    {
+      "tag": "nani",
+      "patterns": [
+        "nani"
+      ],
+      "responses": [
+        "omae mou shinde iru! ",
+        "aa tujhe nani karwau"
+      ]
+    },
+    {
+      "tag": "nhk",
+      "patterns": [
+        "nahi ho paega kya"
+      ],
+      "responses": [
+        "nahi",
+        "nahi bai",
+        "tu kar de merse nahi ho rha "
+      ]
+    },
+    {
+      "tag": "kdrl",
+      "patterns": [
+        "kya dekh rha lambde"
+      ],
+      "responses": [
+        "kuchh nahi bas"
+      ]
+    },
+    {
+      "tag": "namzir",
+      "patterns": [
+        "nazir bhai hai kya",
+        "Hey nazir",
+        "nigga bhai namzir kaun hai ",
+        "namzir",
+        "nazir",
+        "tumi namzir ko jante kya",
+        "nazir kaha hai"
+      ],
+      "responses": [
+        "kaisa hai ludo namzir",
+        "jadu hai nazir to ",
+        "nazir to chumtiya hai",
+        "namzir to lodu hai",
+        "aur lambde nazir tu thoda beh**n ka ludo hai kya :)"
+      ]
+    },
+    {
+      "tag": "inquire2",
+      "patterns": [
+       "how are you?",
+        "are you ok?"
+      ],
+      "responses": [
+        "good , how are you ?",
+        "I am fine",
+        "yems me ok",
+       "yeah i'm fine "
+      ]
+    },
+    {
+      "tag": "greeting",
+      "patterns": [
+        "yo",
+        "Hi",
+        "Hey",
+        "Is anyone there?",
+        "Hello",
+        "Nigga boi"
+      ],
+      "responses": [
+        "yems",
+        "yuss",
+        "yo",
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?",
+        "yo"
+      ]
+    },{
+      "tag": "greeting2",
+      "patterns": [
+        "ohayo gozaimasu",
+        "morning",
+        "good morning",
+        "ohayo"
+      ],
+      "responses": [
+        "ohayo gozaimasu de gozaru",
+        "ohayo gozaimasu desu de gozaru",
+        "good morning"
+      ]
+    },
+    {
+      "tag": "greeting3",
+      "patterns": [
+        "ossu",
+        "yuss",
+        "konnichiwa",
+        "hello"
+      ],
+      "responses": [
+        "konnichiwa",
+        "konnichiwa de gozaru",
+        "yuss",
+        "osssu"
+      ]
+    },
+    {
+      "tag": "greeting4",
+      "patterns": [
+        "lawde",
+        "bc",
+        "chumtiye",
+        "vomsdk",
+        "kyu lambde nahi ho paaega kya",
+        "kaisa hai ludu",
+        "hat vomsdk",
+        "gm"
+      ],
+      "responses": [
+        "gm bai",
+        "nikal lawde",
+        "hon bol lawde",
+        "thik hoon lawde , tu bata",
+        "chup vomsdk",
+        "nahi , karwa  de na",
+        "nahi",
+        "kyu bai nahi ho paa rha kya"
+      ]
+    },
+    {
+      "tag": "greetingFriendly",
+      "patterns": [
+        "lomdk bai",
+        "lomdk boi",
+        "vomsdk bai",
+        "hue hue hue",
+        "bai kyu nahi ho paa rha kya",
+        "boi",
+        "bai"
+      ],
+      "responses": [
+        "yems bai",
+        "kya hua boi",
+        "yems bai wut happin",
+        "gg",
+        ":(",
+        "nahi",
+        "yems boi",
+        "ji bai"
+      ]
+    },
+    {
+      "tag": "just for fun",
+      "patterns": [
+        "naukar kaisa hai bai",
+        "kyu bai naukar ko nahi marna kya",
+        "kyu hui",
+        "kya hua boi",
+        "kya hua bai"
+      ],
+      "responses": [
+        "aaj kal to bas kuchh thaka thaka feel kar rha bai :(",
+        "yems bai marke hi to aa rha :)",
+        "nahi bai abi abi gala dabaya hai uska",
+        "kuchh nahi bas thoda kamzor feel kar rha hoon",
+        "kuchh nahi bas"
+      ]
+    },{
+      "tag": "Inquiry",
+      "patterns": [
+        "what's your name ?",
+        "what is your name?",
+        "who are you"
+      ],
+      "responses": [
+        "Nigga boi",
+        "you can call me Nigga",
+        "Nigga",
+        "My name is Nigga :)"
+      ]
+    },
+    {
+      "tag": "toxicgreetings",
+      "patterns": [
+        "tu kaun vomsdk",
+        "kya naam hai tera",
+        "ludo naam to bata apna",
+        "kaun hai be tu"
+
+      ],
+      "responses": [
+        "ter jaise lawdo ka badnaseeb baap",
+        "dang dana na na dang dana na tera baap aya ",
+        "tera papa bolte lomdk",
+        "tera baap "
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye","ja mata ne","sayonara"],
+      "responses": [
+        "mata ne",
+        "sayonara ",
+        "bye bye ",
+        "ja ne",
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!","arigatou","arigatou gozaimasu","arigatou gozaimasu de gozaru","arigatou gozaimasu de gozaru desu","doumo"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure","hahaaha","ieie daijoubu desu de gozaru","kochhira koso"]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "Which items do you have?",
+        "What kinds of items are there?",
+        "What do you sell?"
+      ],
+      "responses": [
+        "We sell coffee and tea",
+        "We have coffee and tea"
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Do you take credit cards?",
+        "Do you accept Mastercard?",
+        "Can I pay with Paypal?",
+        "Are you cash only?"
+      ],
+      "responses": [
+        "We accept VISA, Mastercard and Paypal",
+        "We accept most major credit cards, and Paypal"
+      ]
+    },
+    {
+      "tag": "delivery",
+      "patterns": [
+        "How long does delivery take?",
+        "How long does shipping take?",
+        "When do I get my delivery?"
+      ],
+      "responses": [
+        "Delivery takes 2-4 days",
+        "Shipping takes 2-4 days"
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    }
+  ]
+}
